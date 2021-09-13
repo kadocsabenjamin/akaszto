@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631531678 source:c:\users\rendszergazda\desktop\akaszto\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+
